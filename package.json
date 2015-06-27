@@ -1,7 +1,7 @@
 {
-  "name": "jstransformer-foo",
-  "version": "0.0.0",
-  "description": "Foo support for JSTransformers.",
+  "name": "jstransformer-jsrender",
+  "version": "0.0.1",
+  "description": "JsRender support for JSTransformers.",
   "keywords": [
     "jstransformer"
   ],
@@ -17,11 +17,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jstransformers/jstransformer-foo.git"
+    "url": "https://github.com/jstransformers/jstransformer-jsrender.git"
   },
   "author": {
     "name": "JSTransformers Team",
     "url": "http://github.com/orgs/jstransformers/people"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "node-jsrender": "^1.0.6",
+    "promise": "^7.0.3"
+  }
 }
