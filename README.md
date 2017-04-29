@@ -1,5 +1,7 @@
 # jstransformer-jsrender
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-jsrender.svg)](https://greenkeeper.io/)
+
 [JsRender](http://www.jsviews.com/#jsrender) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-jsrender/master.svg)](https://travis-ci.org/jstransformers/jstransformer-jsrender)
