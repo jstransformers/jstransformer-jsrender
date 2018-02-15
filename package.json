@@ -30,7 +30,6 @@
   },
   "license": "MIT",
   "dependencies": {
-    "node-jsrender": "^1.0.6",
-    "promise": "^7.0.3"
+    "node-jsrender": "^1.0.6"
   }
 }
