@@ -1,1 +1,0 @@
-<em>Name:</em> {{:name}}{{if showNickname && nickname}}(Goes by <em>{{:nickname}}</em>){{/if}}

@@ -15,7 +15,7 @@
 ## API
 
 ```js
-var jsrender = require('jstransformer')(require('jstransformer-jsrender'));
+var jsrender = require('jstransformer')(require('jstransformer-jsrender'))
 
 jsrender.render('Hello {{:name}}!', {name: "World"}).body
 //=> 'Hello World!'
