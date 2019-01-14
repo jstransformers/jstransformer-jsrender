@@ -30,6 +30,7 @@ exports.compileFileAsync = function (filename) {
       if (err) {
         return reject(err)
       }
+
       resolve(locals => {
         return jsrender.render[name](locals || {})
       })
